@@ -12,7 +12,7 @@ public class Main {
         Product product3 = new Product(3, "Headphones", 150.00);
 
         // Create instance of customer
-        Customer customer = new Customer(1, "John Doe");
+        Customer customer = new Customer(1, "Confidence Emonena");
 
         // Customer browsing products and adding them to the cart
         customer.addProductToCart(product1);
