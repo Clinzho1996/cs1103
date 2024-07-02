@@ -1,6 +1,6 @@
 import com.ecommerce.Customer;
-import com.ecommerce.Order;
 import com.ecommerce.Product;
+import com.ecommerce.orders.Order;
 
 import java.util.List;
 

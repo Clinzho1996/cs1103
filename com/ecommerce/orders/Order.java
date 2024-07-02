@@ -1,6 +1,9 @@
-package com.ecommerce;
+package com.ecommerce.orders;
 
 import java.util.List;
+
+import com.ecommerce.Customer;
+import com.ecommerce.Product;
 
 public class Order {
     private int orderID;
