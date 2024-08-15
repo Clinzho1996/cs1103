@@ -10,8 +10,6 @@ This is a Java-based Weather Information App that provides real-time weather upd
 - **Short-Term Forecast:** Displays a short-term weather forecast for the specified location.
 - **Unit Conversion:** Allows switching between Celsius and Fahrenheit for temperature and different units for wind speed.
 - **Error Handling:** Handles invalid location inputs and failed API requests gracefully.
-- **Search History:** Tracks and displays a history of recent weather searches with timestamps.
-- **Dynamic Backgrounds:** Changes the background based on the time of day.
 
 ## Setup and Installation
 
