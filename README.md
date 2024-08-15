@@ -1,5 +1,4 @@
-
-# Weather Information App
+# Weather Application (CS 1103 Week 8 Programming Assignment)
 
 This is a Java-based Weather Information App that provides real-time weather updates to users. The app utilizes JavaFX for the graphical user interface (GUI) and integrates with a weather API to fetch weather data.
 
