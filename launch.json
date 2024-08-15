@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch WeatherApp",
+      "request": "launch",
+      "mainClass": "WeatherApp",
+      "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
