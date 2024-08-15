@@ -35,7 +35,6 @@ cs1103/
 │   ├── WeatherApp.java
 │   ├── WeatherController.java
 │   ├── WeatherService.java
-│   └── weather.fxml
 ```
 
 ### Getting Started
@@ -45,8 +44,8 @@ cs1103/
    If the project is hosted on a version control system like GitHub, clone it to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/weather-information-app.git
-   cd weather-information-app
+   git clone https://github.com/Clinzho1996/cs1103
+   cd cs1103
    ```
 
 2. **Download Dependencies:**
@@ -74,7 +73,6 @@ cs1103/
 
 - **Location Input:** Enter the name of a city or geographical coordinates to get the weather information.
 - **Temperature Unit Conversion:** Click the unit conversion button to switch between Celsius and Fahrenheit.
-- **Search History:** Recent searches are displayed with timestamps for easy reference.
 
 ## Error Handling
 
@@ -91,7 +89,3 @@ The application handles the following scenarios:
 ## Contributing
 
 If you wish to contribute, please fork the repository and submit a pull request. Any improvements or bug fixes are welcome.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
